@@ -123,26 +123,6 @@ Elas podem incluir:
 - estilo de escrita
 
 Exemplo:
-
-
-Benefício:
-
-A IA entende **qual é o resultado final esperado**.
-
----
-
-# 3️⃣ RULES (Regras)
-
-As regras orientam **como a IA deve se comportar** ao gerar a resposta.
-
-Elas podem incluir:
-
-- tom de linguagem
-- restrições de conteúdo
-- tratamento de informações faltantes
-- estilo de escrita
-
-Exemplo:
 - Use linguagem clara e direta.
 - Evite jargões técnicos desnecessários.
 - Não invente informações.
