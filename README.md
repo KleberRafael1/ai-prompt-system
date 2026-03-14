@@ -34,6 +34,27 @@ Esse modelo pode ser aplicado em diversas áreas corporativas.
 
 ---
 
+## 🔄 AI Workflow — Knowledge Organization
+
+Este diagrama ilustra o fluxo utilizado para transformar informações brutas em conhecimento estruturado utilizando IA e prompts estruturados.
+
+```mermaid
+flowchart TD
+
+A[Informações brutas<br/>PDFs, emails, notas técnicas] --> B[Briefing estruturado<br/>dados essenciais]
+
+B --> C[Prompt estruturado<br/>ROLE + OBJECTIVE + RULES + OUTPUT FORMAT]
+
+C --> D[Processamento pela IA]
+
+D --> E[Conteúdo organizado<br/>newsletter, resumo executivo, comunicação interna]
+
+E --> F[Times internos utilizam a informação<br/>decisão e ação]
+
+```
+
+---
+
 # 📦 Projetos incluídos
 
 ## 🚀 Newsletter Generator — Comunicação Interna de Produtos
